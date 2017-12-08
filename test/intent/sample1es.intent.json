@@ -1,0 +1,7 @@
+{
+  "utterance": "deja pair mi dispositivo",
+  "intent_type": "PairingIntent",
+  "intent": {
+    "DevicePairingPhrase": "pair my device"
+  }
+}

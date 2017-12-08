@@ -5,9 +5,15 @@ Pairs the mycroft device to home.mycroft.ai
 Pairs the mycroft device to home.mycroft.ai and gives you a code used to add the device at home.mycroft.ai
 
 ## Examples 
-* "pair my device"
-* "register my device"
-* "pair my unit"
+* en-us
+ * "pair my device"
+ * "register my device"
+ * "pair my unit"
+* es-es
+ * "emparejar mi dispositivo"
+ * "registrar mi dispositivo"
+ * "emparejar mi unidad"
 
 ## Credits 
-MycroftAI
+* MycroftAI
+* es-es: vguardiola
